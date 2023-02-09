@@ -1,0 +1,24 @@
+.DataCard div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: -1px;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+
+
+.DataCard div button{
+    box-shadow: 0 4px 8px 0 rgba(60, 30, 20, 0.521);
+ }
+
+.DataCard button {
+    border-radius: 30px;
+    width: 120px;
+    height: 60px;
+}
+
+.ColorTureHandler{
+    background-color: #1395831a;
+        backdrop-filter: blur(4px);
+}

@@ -1,0 +1,28 @@
+li {
+    list-style-type: none;
+}
+
+.KosarTartam {
+    text-align: left;
+}
+
+.PlussMinus {
+    text-align: end;
+}
+
+.PlussMinus button {
+    background-color: #f29a2c;
+    font-size: 1rem;
+    border-radius: 10px;
+    margin:0 5px;
+    size:40px;
+    height: 40px;
+    box-shadow: 2px 2px 2px 1px rgba(60, 30, 20, 0.6);
+}
+
+em{
+    font-size: 1rem;
+}
+button{
+    background-color: #f29a2c;
+}

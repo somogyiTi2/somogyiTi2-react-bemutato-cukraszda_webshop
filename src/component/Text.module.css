@@ -1,0 +1,9 @@
+.Text{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 0 20%;
+    border-radius: 10px;
+    background-color: rgba(60,30,20,0.9);
+    color:white
+}

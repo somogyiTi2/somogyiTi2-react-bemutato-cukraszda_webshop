@@ -1,0 +1,14 @@
+.Nem input{
+  background-color:#f59fab;
+  margin: 10px;
+}
+
+.Igen input{
+  background-color:#fff;
+  margin: 10px;
+}
+
+input{
+ 
+  border-radius: 30px;
+}
